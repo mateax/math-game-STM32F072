@@ -17,4 +17,4 @@ A fun and interactive Math Quiz Game built for the Mbed platform. Players are pr
 4. At the end of the game, view your score and play again!
 
 ## Board circuit
-Click here 👉 schematic_1 or here 👉 schematic_2.
+Click here 👉 [schematic_1](https://github.com/mateax/math-game-STM32F072/blob/main/Math_quiz/Math_quiz_circuit.jpg) or here 👉 [schematic_2]().
